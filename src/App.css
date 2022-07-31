@@ -1,0 +1,123 @@
+.navbar {
+  background-color: rgba(0, 0, 0, 0.115);
+}
+.nav-item {
+  background-color: rgba(0, 0, 0, 0.482);
+  border-radius: 4px;
+  margin: 2px;
+  text-align: center;
+}
+.nav-color,
+.input {
+  color: white;
+}
+.sign {
+  background-color: #e50914;
+}
+.accordion-button:not(.collapsed) {
+  background-color: #e50914;
+}
+
+.img-navbar {
+  height: 70px;
+  width: 120px;
+}
+
+.app {
+  margin-top: 7em;
+}
+
+.background {
+  background-image: url("https://assets.nflxext.com/ffe/siteui/vlv3/c2578c37-8569-4f88-b8f1-67a26a9ddcdd/8b86fd39-1f8d-458a-aef0-c226aaebb2e0/IL-en-20220725-popsignuptwoweeks-perspective_alpha_website_medium.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  /* height: 1300px; */
+}
+
+.background2 {
+  background: linear-gradient(to bottom, #0a0a0a50 1%, #050505 100%);
+  height: 1000px;
+}
+
+.footer {
+  background-color: rgba(0, 0, 0, 0.482);
+
+  margin-bottom: 0%;
+  padding-bottom: 1em;
+}
+
+h1,
+h2,
+h3,
+p {
+  color: white;
+  text-align: center;
+}
+
+p {
+  font-size: 22px;
+}
+
+.h1-home {
+  font-size: 50px;
+}
+
+.form {
+  background-color: rgba(0, 0, 0, 0.482);
+  height: 30em;
+  border-radius: 5%;
+}
+
+.card-link {
+  color: white;
+  text-decoration: none;
+}
+.btn-card {
+  background-color: rgba(0, 0, 0, 0.548);
+  border-radius: 6px;
+  margin: 2px;
+}
+
+.card-style {
+  background-color: rgba(0, 0, 0, 0.477);
+  border-radius: 5%;
+  text-align: center;
+  color: white;
+  padding: 1em;
+}
+.btn {
+  background-color: #e50914 !important;
+  border-color: #e50914 !important;
+}
+.btn:focus {
+  border-color: #e50914 !important;
+  box-shadow: 0 0 0 0.25rem #e50914 !important;
+}
+
+/* start component home */
+.header-home {
+  height: 500px;
+}
+
+.home-section {
+  background-color: rgb(0, 0, 0);
+  color: white;
+  padding: 2em;
+}
+
+.img-home {
+  width: 500px;
+  height: 300px;
+}
+.hr {
+  height: 1em;
+  background-color: #7c7c7c;
+  margin: 0px;
+}
+/* end component home */
+
+/* start component about */
+.about {
+  margin-top: 5em;
+}
+/* end component about */
